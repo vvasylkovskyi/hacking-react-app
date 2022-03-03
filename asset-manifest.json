@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hacking-react-app/static/css/main.073c9b0a.css",
+    "main.js": "/hacking-react-app/static/js/main.648790a5.js",
+    "static/js/787.b4fe1239.chunk.js": "/hacking-react-app/static/js/787.b4fe1239.chunk.js",
+    "static/media/logo.svg": "/hacking-react-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/hacking-react-app/index.html",
+    "main.073c9b0a.css.map": "/hacking-react-app/static/css/main.073c9b0a.css.map",
+    "main.648790a5.js.map": "/hacking-react-app/static/js/main.648790a5.js.map",
+    "787.b4fe1239.chunk.js.map": "/hacking-react-app/static/js/787.b4fe1239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.648790a5.js"
+  ]
+}
